@@ -1,5 +1,7 @@
 # AI Recruitment System 🚀
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-based-recruitment-system-umqhzrr7zfpyxd3ebpqwto.streamlit.app/)
+
 The **AI Recruitment System** is an intelligent, multi-agent assistant designed to automate and streamline the candidate hiring workflow for HR teams and technical recruiters. By leveraging advanced Language Models (LLMs) and Phidata agents, the system automates resume screening, handles candidate email communications, and schedules Zoom interviews.
 
 ---
