@@ -83,7 +83,7 @@ This project uses the modern, ultra-fast Python package installer and manager **
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/manthan89-py/AI-Based-Recruitment-System.git
+   git clone https://github.com/pratiksutar841/AI-Based-Recruitment-System.git
    cd AI-Based-Recruitment-System
    ```
 
